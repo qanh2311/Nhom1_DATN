@@ -5,8 +5,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
 
-Hệ thống phần mềm quản lý quán cafe hiệu quả giúp tối ưu hóa quy trình bán hàng, quản lý nhân sự, kho hàng, khuyến mãi và theo dõi doanh thu một cách chặt chẽ.
-*(An effective cafe management software to optimize sales processes, manage staff, inventory, and track revenue).*
+Hệ thống phần mềm quản lý quán cafe hiệu quả giúp tối ưu hóa quy trình bán hàng, quản lý nhân sự, khuyến mãi và theo dõi doanh thu một cách chặt chẽ.
 
 ## 🚀 Tính năng nổi bật / Main Features
 
