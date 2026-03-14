@@ -1,37 +1,33 @@
-# ☕ POLY CAFE - Sales Management Software / Phần Mềm Quản Lý Bán Hàng
+# ☕ Hệ Thống Quản Lý Bán Hàng - POLY CAFE Management System
 
-## 🇬🇧 English
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
 
-### 🚀 Technologies
-* **Language & UI:** Java, Java Swing.
-* **Database:** Microsoft SQL Server.
-* **Tools:** Apache NetBeans.
+Hệ thống phần mềm quản lý quán cafe hiệu quả giúp tối ưu hóa quy trình bán hàng, quản lý nhân sự, kho hàng, khuyến mãi và theo dõi doanh thu một cách chặt chẽ.
+*(An effective cafe management software to optimize sales processes, manage staff, inventory, and track revenue).*
 
-### ✨ Main Features
-* **Sales:** Create orders, calculate totals, scan/generate QR codes for payment.
-* **Management:** Products (Drinks/Pastries), invoices, employee accounts, discounts & promotions.
-* **System:** Login, role-based access control (Admin/Staff), password recovery via Email.
-* **Reporting:** Revenue and product statistics.
+## 🚀 Tính năng nổi bật / Main Features
 
----
+* **Quản lý nghiệp vụ (Management):** Thêm, sửa, xóa và cập nhật danh mục Sản phẩm (Đồ uống/Bánh), Hóa đơn, và Ưu đãi.
+* **Bán hàng & Thanh toán (Sales & Payment):** * Tạo đơn hàng và tính toán tổng tiền tự động.
+  * Hỗ trợ thanh toán hiện đại: Quét và tạo mã QR (`QRCodeGenerator`).
+* **Bảo mật & Hệ thống (Security):** * Khôi phục mật khẩu: Gửi mã xác nhận (OTP) cấp lại mật khẩu qua hệ thống Email cá nhân.
+* **Phân quyền người dùng (Role-based Access):** * `ADMIN` : Toàn quyền quản trị (Thêm, Sửa, Xóa thông tin nhân viên, tài khoản, cấu hình hệ thống).
+  * `STAFF` : Quyền thực hiện các nghiệp vụ bán hàng, tạo hóa đơn cơ bản.
+* **Thống kê (Reporting):** Bảng điều khiển (Dashboard) hiển thị chi tiết doanh thu theo thời gian và phân tích mặt hàng bán chạy.
 
-## 🇻🇳 Tiếng Việt
+## 🛠️ Công nghệ sử dụng / Technologies
 
-### 🚀 Công nghệ sử dụng
-* **Ngôn ngữ & Giao diện:** Java, Java Swing.
-* **Cơ sở dữ liệu:** Microsoft SQL Server.
-* **Công cụ:** Apache NetBeans.
+* **Ngôn ngữ (Language):** Java (Yêu cầu JDK 21+).
+* **Giao diện (Frontend/UI):** Java Swing (JFrame).
+* **Cơ sở dữ liệu (Database):** Microsoft SQL Server.
+* **Công cụ phát triển (IDE):** Apache NetBeans.
+* **Thư viện tích hợp (Libraries):** JDBC, JavaMail API, ZXing Core (xử lý QR Code).
 
-### ✨ Chức năng chính
-* **Bán hàng:** Tạo đơn, tính tiền, quét/tạo mã QR thanh toán.
-* **Quản lý:** Sản phẩm (Đồ uống/Bánh), hóa đơn, tài khoản nhân viên, khuyến mãi ưu đãi.
-* **Hệ thống:** Đăng nhập, phân quyền (Admin/Staff), khôi phục mật khẩu qua Email.
-* **Báo cáo:** Thống kê doanh thu, hàng hóa.
-
----
-
-## 👥 Team Members | Nhóm thực hiện
-* Group 1 / Nhóm 1 - SD1904 - FPS POLYSCHOOL
+## 👥 Nhóm thực hiện / Team Members
+* Group 1 / Nhóm 1 - Lớp SD1904 - Trường Cao đẳng FPT Polytechnic (FPS POLYSCHOOL)
 
 <a href="https://github.com/Luxje">
   <img src="https://github.com/Luxje.png" width="60" height="60" alt="Luxje" title="Luxje">
